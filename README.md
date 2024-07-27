@@ -1,4 +1,4 @@
-# Credit_Operation
+# Operações de Crédito
 
 A base de dados analisada contém informações detalhadas sobre operações financeiras, englobando diversas modalidades de crédito e perfis de clientes, totalizando 2 bilhões de operações. Os dados incluem informações sobre o período da operação, a unidade federativa (UF), o tipo de crédito bancário (TCB), o tipo de cliente (PF ou PJ), a ocupação do cliente, o porte do cliente em faixas de renda, a modalidade da operação, o número de operações realizadas, o valor total da carteira ativa, os ativos problemáticos e as quantias a vencer em diferentes prazos (91 a 360 dias e 361 a 1080 dias).
 
